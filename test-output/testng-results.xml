@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4354" started-at="2022-06-04T19:22:39Z" finished-at="2022-06-04T19:22:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4354" started-at="2022-06-04T19:22:39Z" finished-at="2022-06-04T19:22:43Z">
+      <class name="testCases.TC_VideoGameAPI">
+        <test-method status="PASS" signature="test_getAllVideoGames()[pri:1, instance:testCases.TC_VideoGameAPI@47c62251]" name="test_getAllVideoGames" duration-ms="2768" started-at="2022-06-04T19:22:39Z" finished-at="2022-06-04T19:22:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getAllVideoGames -->
+        <test-method status="PASS" signature="test_addNewVideoGame()[pri:2, instance:testCases.TC_VideoGameAPI@47c62251]" name="test_addNewVideoGame" duration-ms="838" started-at="2022-06-04T19:22:41Z" finished-at="2022-06-04T19:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_addNewVideoGame -->
+        <test-method status="PASS" signature="test_getVideoGame()[pri:3, instance:testCases.TC_VideoGameAPI@47c62251]" name="test_getVideoGame" duration-ms="571" started-at="2022-06-04T19:22:42Z" finished-at="2022-06-04T19:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getVideoGame -->
+        <test-method status="PASS" signature="test_updateVideoGame()[pri:4, instance:testCases.TC_VideoGameAPI@47c62251]" name="test_updateVideoGame" duration-ms="77" started-at="2022-06-04T19:22:43Z" finished-at="2022-06-04T19:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_updateVideoGame -->
+        <test-method status="PASS" signature="test_deleteVideoGame()[pri:5, instance:testCases.TC_VideoGameAPI@47c62251]" name="test_deleteVideoGame" duration-ms="37" started-at="2022-06-04T19:22:43Z" finished-at="2022-06-04T19:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteVideoGame -->
+      </class> <!-- testCases.TC_VideoGameAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
